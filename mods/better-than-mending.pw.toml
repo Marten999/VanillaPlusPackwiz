@@ -1,0 +1,13 @@
+name = "Better Than Mending"
+filename = "BetterThanMending-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c60848df284b2f9edafbb23f458ce1f3c223e691"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5433491
+project-id = 264738
