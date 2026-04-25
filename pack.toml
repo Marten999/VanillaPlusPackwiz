@@ -1,0 +1,12 @@
+name = "Vanilla+"
+version = "1.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a865c28b7383fd3c26cc4d57b0154707bac1f51525d4927cb0ad1f916c9de1d8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"

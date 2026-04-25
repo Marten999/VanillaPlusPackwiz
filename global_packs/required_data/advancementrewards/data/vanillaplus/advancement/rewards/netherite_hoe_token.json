@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "criteria": {
+    "netherite_hoe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:netherite_hoe"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "netherite_hoe"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken2"
+  }
+}

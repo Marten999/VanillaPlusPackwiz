@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Repurposed Structures - Config Datapack 1.21 v55",
+    "pack_format": 26,
+    "supported_formats": [
+      0,
+      1000000
+    ]
+  }
+}
