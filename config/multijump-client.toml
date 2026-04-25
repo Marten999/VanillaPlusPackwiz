@@ -1,0 +1,6 @@
+#How to display the hud indicator for jumps remaining.
+#OFF = disable the indicator
+#COMPRESSED_WHEN_NEEDED = display the jumps similar to armour when there are 10 or less jumps in total, and compress when there are more than 10
+#ALWAYS_COMPRESSED = compress the jump amount into a number
+#Allowed Values: OFF, ALWAYS_COMPRESSED, COMPRESSED_WHEN_NEEDED
+hud_indicator = "COMPRESSED_WHEN_NEEDED"
