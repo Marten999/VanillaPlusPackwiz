@@ -1,9 +1,6 @@
 {
   "structures": [
-    {
-      "structure": "repurposed_structures:stronghold_end",
-      "weight": 1
-    }
+    
   ],
   "placement": {
     "type": "repurposed_structures:advanced_random_spread",
