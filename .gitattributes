@@ -1,5 +1,0 @@
-*.toml text eol=lf
-*.pw.toml text eol=lf
-*.json text eol=lf
-*.cfg text eol=lf
-*.txt text eol=lf
