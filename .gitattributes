@@ -1,9 +1,14 @@
-* text=auto
-*.toml text eol=lf
-*.pw.toml text eol=lf
-*.json text eol=lf
-*.cfg text eol=lf
-*.txt text eol=lf
-*.properties text eol=lf
-*.yaml text eol=lf
-*.yml text eol=lf
+* text=auto eol=lf
+
+*.jar binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.dll binary
+*.exe binary
+*.so binary
+*.class binary
