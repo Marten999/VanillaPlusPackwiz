@@ -4,7 +4,7 @@
     "worldedit.expand.expanded.vert": "Regiunea a fost extinsa {0} blocuri (de sus pana jos).",
     "worldedit.biomeinfo.position": "Biome-uri la pozitia ta: {0}",
     "worldedit.biomeinfo.selection": "Biome-uri in selectia ta: {0}",
-    "worldedit.brush.radius-too-large": "Raza maxima permisă a pensulei: {0}",
+    "worldedit.brush.radius-too-large": "Raza maxima permisÄƒ a pensulei: {0}",
     "worldedit.brush.apply.description": "Aplica pensula, aplica o functie pentru fiecare bloc",
     "worldedit.brush.apply.radius": "Marimea pensulei",
     "worldedit.brush.apply.shape": "Forma regiunii",

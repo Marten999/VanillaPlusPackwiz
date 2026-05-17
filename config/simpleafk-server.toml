@@ -11,7 +11,7 @@ secondsBeforeKick = 300
 #Can be edited with the regular minecraft chat codes which can be found here https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes
 #$player will be replaced with the actual player name
 #$player is required to appear in the text
-isNowAfkMessage = "§e§o$player is now AFK"
+isNowAfkMessage = "Â§eÂ§o$player is now AFK"
 #Whether or not the player is now AFK message should be sent to all players.
 #Note: It will always be sent to the player that has gone AFK.
 isNowAfkMessageEnabled = true
@@ -19,7 +19,7 @@ isNowAfkMessageEnabled = true
 #Can be edited with the regular minecraft chat codes which can be found here https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes
 #$player will be replaced with the actual player name
 #$player is required to appear in the text
-isNoLongerAfkMessage = "§e§o$player is no longer AFK"
+isNoLongerAfkMessage = "Â§eÂ§o$player is no longer AFK"
 #Whether or not the player is no longer AFK message should be sent to all players.
 #Note: It will always be sent to the player that is no longer AFK.
 isNoLongerAfkMessageEnabled = true
@@ -27,9 +27,9 @@ isNoLongerAfkMessageEnabled = true
 #Can be edited with the regular minecraft chat codes which can be found here https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes
 #$player will be replaced with the actual player name
 #$player is required to appear in the text
-playerNameFormat = "§7[AFK] §r$player"
+playerNameFormat = "Â§7[AFK] Â§r$player"
 #The message that will be sent to the player after being kicked for being AFK too long.
 #Can be edited with the regular minecraft chat codes which can be found here https://minecraft.fandom.com/wiki/Formatting_codes#Color_codes
-afkKickMessage = "§1You have been kicked for being AFK too long."
+afkKickMessage = "Â§1You have been kicked for being AFK too long."
 #Whether exempt players should be included in the sleep vote.
 includeExemptPlayersInSleepVote = false
