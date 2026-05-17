@@ -1,9 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"enderscape:shadoline_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:shadoline_ore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:drift_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:nebulite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:magnia_attractor","components":{"enderscape:current_nebulite_fuel":1,"enderscape:entities_pulled":1}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:end_city_key"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

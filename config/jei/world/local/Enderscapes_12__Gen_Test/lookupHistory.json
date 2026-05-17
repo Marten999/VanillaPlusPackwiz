@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"quark:ancient_tome","components":{"quark:tome_enchantments":{"levels":{"minecraft:looting":3}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"quark:ancient_tome","components":{"quark:tome_enchantments":{"levels":{"minecraft:knockback":2}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"enderscape:mirror"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

@@ -1,6 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"vanillaplus:small_enderbulb_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"ender_dragon_loot:dragon_axe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"ender_dragon_loot:dragon_sword"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
