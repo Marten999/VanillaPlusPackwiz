@@ -10,7 +10,7 @@ hash = "ed1b398794e7b112f1a0c79531ebc9cd56457638c88af0794ebef277b1a45504"
 
 [[files]]
 file = "config/antiqueatlas-common.toml"
-hash = "cbdd2f3c3f30ba2c6d2326ec755caab31da14882127b553a101e15c9d505a5fd"
+hash = "1f05bc4df8d259bffb5e6c06b4d12f4e9a0f4a3f1dac9e762482582e6259a19b"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -74,15 +74,23 @@ hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
 
 [[files]]
 file = "config/betterfortresses/neoforge-1_21/itemframes.json"
-hash = "74a611c6bbecfc2509411d371024e62ea2afd9710bf7f96976b930de3d8412f8"
+hash = "0b305edb6af445cb0bece34aaeba6f9624a6898ea17539cf03d12cde3692de9d"
 
 [[files]]
 file = "config/betterthirdperson-common.toml"
 hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
+file = "config/blueprint-client.toml"
+hash = "43a943dd83562ffc84e88a01502bd7237d3827c5afe16c251e3a87755f411ecb"
+
+[[files]]
+file = "config/blueprint-common.toml"
+hash = "251f732f07620eab2bb5e56eb068e39e6d651d26aaa7094f59d090d9ce82ede7"
+
+[[files]]
 file = "config/chat_heads.json5"
-hash = "744e6977b53f264ff47a1925451f7bd7083eb6bd7bff2505980cc3e9ca4ca0e2"
+hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
 [[files]]
 file = "config/chunkanimator-client.toml"
@@ -129,6 +137,10 @@ file = "config/cupboard.json"
 hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
+file = "config/dragonfight.json"
+hash = "4fdfd66b310d782a07d868b59a8d5af7aee237fd22edfaafb4875b06d1e7c3da"
+
+[[files]]
 file = "config/dsurround/dsurround.json"
 hash = "d46ae62f4e77deb19e5b1d79e739ee1c2495f836496c71ea1627b37bd922d179"
 
@@ -149,6 +161,10 @@ file = "config/embeddium-options.json"
 hash = "3ae541cb5000075a8487bdcaf14634c3215abbd73ffc3715fd5efd2112c9a23c"
 
 [[files]]
+file = "config/enderscape.json5"
+hash = "0172f64ede42e5f6608c559045623ca82ae5f3123c5888f435bdd2d1b6773739"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e"
 
@@ -162,7 +178,7 @@ hash = "cb9277a6bcad8f39fdec443f28181ea6e9b38e70781a73a236eb9b9f69e23be6"
 
 [[files]]
 file = "config/fml.toml"
-hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
 file = "config/global_packs.toml"
@@ -185,6 +201,14 @@ file = "config/immersiveenchanting-server.toml"
 hash = "57cbd09c2566780d3b71e8163279d9f78b4fdbe9ecfa7e2557c28563dc8ddc74"
 
 [[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "f3cc641117d4650b8438f4c93b7d909cfa8199ad2ea77f3c21684c403311110e"
+
+[[files]]
 file = "config/jei-server.toml"
 hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
@@ -194,7 +218,7 @@ hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "12f43db763b7533e7a3b993123bf50b6ec457e6a3e71a9d913f54100ce472bcb"
+hash = "c9c1b1562fd8f5f0f84c06dec67ed3a7b8053e2881b71452d874ed0b4cd5c9a8"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -218,11 +242,83 @@ hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "b7d346379d1ed53be597db148784f0a2d04aed0118ed0f4904bb31c4c2a542de"
+hash = "f6189d1ae445aa0632fb15115965e9ee418396cae1e4e7a7b3888ea077b02a76"
+
+[[files]]
+file = "config/jei/world/local/Advancements/lookupHistory.json"
+hash = "32b56f97e8074f8d56df069e40fa4ed807d83c40c47c6ab36394f067e9949fb6"
+
+[[files]]
+file = "config/jei/world/local/End_Castle___Villager_Outpost/lookupHistory.json"
+hash = "495d6f14fcd065011330fa1c23e4411ab408b1e30ed2f6ecee08f331a034a9b9"
+
+[[files]]
+file = "config/jei/world/local/End_s_Phantasm/lookupHistory.json"
+hash = "28b494b90e763ff9fd630c40743762b2a4918208f795f2a60f68968bf197a019"
+
+[[files]]
+file = "config/jei/world/local/Ender_Dragon_4/bookmarks.json"
+hash = "2b5d254dc4da474cbf9f1205bcd2eaeb0dbe3f0dd69487489f7f9788624d17b5"
+
+[[files]]
+file = "config/jei/world/local/Ender_Dragon_4/lookupHistory.json"
+hash = "e49ca9b1289ea97f96e282cfe957bbcc5317074351949a5907223dec7a39c7dc"
+
+[[files]]
+file = "config/jei/world/local/Enderscape/lookupHistory.json"
+hash = "9402baf3146f6a8d42bec940a73363b70224827a773df4ab1d923ee01e3b7326"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_11__Repurposed/lookupHistory.json"
+hash = "cf508f43703f59abd1469a667716ada4a05fc6c7bdea87773c4417beffe7fb5b"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_20/lookupHistory.json"
+hash = "518640433ab849a4e41a3fe7494f93c26d1257313d7a966d7ef926905ebc7546"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_24/bookmarks.json"
+hash = "3e40001e90691d08e22a61e7ff7b6c26bb18992bb0dc8712e6d64d2edb0abefc"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_24/lookupHistory.json"
+hash = "05a777cff161e179a236842d79d16e32cec2c8944242edc5082463a0e26b86d9"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_25__CastleVault/bookmarks.json"
+hash = "82abce1cb46c882487299855c9452e215b6043b0e024c477a0c71d715397c32f"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_25__CastleVault/lookupHistory.json"
+hash = "251637178fb90723cffde036b1218ca1f74897aaa086cf4aea88ad4efe736b8d"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_33/lookupHistory.json"
+hash = "eb7d17d3bb5aef6a0c10dc520ef5be1ef0e665447312d06f7cfebcbea4b09618"
+
+[[files]]
+file = "config/jei/world/local/Enderscape_37/lookupHistory.json"
+hash = "084528760fadf4f65677ce21fa71d54d9ffbbacbc51d717c6b7f8d4cda42749f"
+
+[[files]]
+file = "config/jei/world/local/Enderscapes_12__Gen_Test/lookupHistory.json"
+hash = "f75c5c5f16b0107c2bc4dd11b7bc3da879aaefc606a57db2a972a46f7d775ebd"
+
+[[files]]
+file = "config/jei/world/local/Enderscapes_16/lookupHistory.json"
+hash = "44db45f933bc95f55c3dd899af5fdf00a9bf55dfb5d55353bfa141d3c8e79359"
+
+[[files]]
+file = "config/jei/world/local/Enderscapes_2/lookupHistory.json"
+hash = "83fc43e3ab1f076285425c57d0376455f0eb5ea991cefb2a2d0bb9068b5372c9"
+
+[[files]]
+file = "config/jei/world/local/Legendary_Tooltips/lookupHistory.json"
+hash = "04f19b789f81be7009ea119d56abf76aef05f5593cf090a5eacff832cb07a68c"
 
 [[files]]
 file = "config/jei/world/local/Server_Test/lookupHistory.json"
-hash = "50928ca5cda8355b6cc12bdb658b50d4abf64edee44c7cb3a596e8bec8106c4d"
+hash = "fdee177546b3e8cfbc9ef25c6b814920e929727875eeeab1fd3db6f0ea0f7e75"
 
 [[files]]
 file = "config/jei/world/local/Server_Test_2/bookmarks.json"
@@ -233,16 +329,32 @@ file = "config/jei/world/local/Server_Test_2/lookupHistory.json"
 hash = "3151b202888bcfe60b8584de1159fba7266c81da4bb8d1146d40decf90bf41b0"
 
 [[files]]
+file = "config/jei/world/local/Unusual_End/lookupHistory.json"
+hash = "8a421b0178e9cbf91f0b4ca859725740a548db8ae9d7425260f82c38f6981cec"
+
+[[files]]
 file = "config/jei/world/server/Small_Leagues_b5d4f409/bookmarks.json"
-hash = "98fdd99bf46f59cc2edd689a7b7f35309fcf4aba7799a53b72ca1b9d20fbf45c"
+hash = "a52699b429aa267fceed1e3e285331e597b34bc4cd5578cd194f0c9f9988c5ed"
 
 [[files]]
 file = "config/jei/world/server/Small_Leagues_b5d4f409/lookupHistory.json"
-hash = "5ab5bacf4fe483b716cc197ab996e547e0fe984204322871121cbf79e8015058"
+hash = "3b5a9e95c7606db2000d5616048079e2a460ffc317bbfd413bba6f0bf9d1802b"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+hash = "c683bf25ecc80d37e735c94f7efb0fc39faf98d99e1e8e19da013d06a960db0d"
+
+[[files]]
+file = "config/legendarytooltips-1.toml.bak"
+hash = "ffb673c140ec3cea366c6c64e8f37dad22ac09732f47724fabade9b36e08ad00"
+
+[[files]]
+file = "config/legendarytooltips-2.toml.bak"
+hash = "2fb6ffe16f35b0dee4a72eb520309a6ef83062c903d3adf75bb60259036e139c"
+
+[[files]]
+file = "config/legendarytooltips.toml"
+hash = "d89c5e50d8e082e147785d905ab2b02188e7986eb96c732e9c156a70e83dbeaf"
 
 [[files]]
 file = "config/multijump-client.toml"
@@ -277,12 +389,48 @@ file = "config/particular-common.toml"
 hash = "555603afc42e8a7dd9d9f3414b0420b99d84e2bab2b0a4bf39933784a5ba5929"
 
 [[files]]
-file = "config/quark-common.toml"
+file = "config/phantasm.json"
+hash = "ecf35890bc27d9399da1973f11143e0c9119d96936deb527e59033e327c9bf05"
+
+[[files]]
+file = "config/pingwheel.json"
+hash = "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea"
+
+[[files]]
+file = "config/pingwheel.server.json"
+hash = "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a"
+
+[[files]]
+file = "config/placebo.cfg"
+hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
+
+[[files]]
+file = "config/quark-common-1.toml.bak"
 hash = "ecbec1c1ed2b738243cb95f90becda9a362a6a283ebe5ea83b4bfeea2a346cf9"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "bd207475328ca479370566587f338897dc0b3bc75f1f4e1710115421ee170136"
 
 [[files]]
 file = "config/reap-server.toml"
 hash = "65f1080e648f0f47470cf5736dd57d353d2163b610847800f01eef7412eb4f05"
+
+[[files]]
+file = "config/reliable_recipes.json"
+hash = "2fc8333ddc190d44d555f49da8857a5464d1b5fafe8844bb9a4b8f2688b9ab02"
+
+[[files]]
+file = "config/reliable_recipes/recipe_example.json.disabled"
+hash = "b950145c8e443b36bab070f8b7d821ebff8ee8f61eb74669bd8d7ff67d7f8cf0"
+
+[[files]]
+file = "config/reliable_remover.json"
+hash = "5b9399eea3ff127d808f4debfaf3eae7513817cd63b36225e550daf9f8054e88"
+
+[[files]]
+file = "config/reliable_remover/End.json"
+hash = "1187bb21a0e4923116ce40cb80060a1ddcc5200e33f38c483e78477aa2f8996f"
 
 [[files]]
 file = "config/repurposed_structures-neoforge/modded_loot.toml"
@@ -305,12 +453,28 @@ file = "config/seamless_sleep.toml"
 hash = "9eb1bc978773313e9b81c3b8a790a342333affd7eba82c6344be14ab1f839c6f"
 
 [[files]]
+file = "config/simpleafk-server.toml"
+hash = "1f9a6cda70912882c08b44149b4f756d1cf2c08779e4256fd3e5c6583df7752e"
+
+[[files]]
 file = "config/skinlayers.json"
-hash = "45162f45aa2db525a0edc483959f35b6d958ba2e54066a4f87e7f3c3f0f99166"
+hash = "4cb3f0ef33181167ada93ee3f2e83502a23140980f35b998637b34696a28bdfd"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "eafb9aada83ac38e98850550edb0a667564c9fcd8780d93eae62bd72d15999f5"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "07bdf3d6086533f1b8044ff5ac0dacebb792088f85a9b5b8403a762b432033b7"
+hash = "fa5208bb262b5e9cbf98c5537233ac7e7aa5fca9d2af0e167550995abdfa4e04"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -327,6 +491,10 @@ hash = "068ccd6b0985f7ba643fb7ccd6e8149378b4679891a90aa2c787f8ba278330c6"
 [[files]]
 file = "config/terrablender.toml"
 hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "config/toastcontrol-client.toml"
+hash = "633a90a36cf0947b199e9a6737c19982d8130820a18b69aa0d16240b584ec001"
 
 [[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
@@ -367,6 +535,10 @@ hash = "5fcd5793de154b99c3eac8da908e3be12b5552058b3e5142c6bf699c75bf2c54"
 [[files]]
 file = "config/unionlib-server.toml"
 hash = "b866ef93b7aaf4f256e4f406bd2e0ca6c58c4ddc967b64767ae7d50d066500fb"
+
+[[files]]
+file = "config/unusualend-common.toml"
+hash = "ca60f38298fa84d6f372c88628ef3f6483642832586f4112abc18fa9b70463c5"
 
 [[files]]
 file = "config/visuality/config.toml"
@@ -982,7 +1154,11 @@ hash = "dc3c9f6273f8c4e10cef482cd283d12c5a74ecdadf3f4f7d5e104b324a2b2720"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "6759399bd9b90a2c821f904eab6cde7e5987fec1200c724b1b7b453ba7dddd95"
+hash = "520d0903a1ca9e8d1ebff6e499548cd1974ef30442db7357b32b89ea3721cd7c"
+
+[[files]]
+file = "config/yacl.json5"
+hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "config/yungscavebiomes-neoforge-1_21_1.toml"
@@ -991,6 +1167,598 @@ hash = "022f771e899ae3a0953a172e36e2b4c6bea556a4a8e467b0849eac101b943dda"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/end_castle/ominous_boss_vault.json"
+hash = "2e18fd506393c70bd0d4a36653f4172d4204c0a9e374f5f2b23d580cf5df0b9d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/enchant_chest.json"
+hash = "5c10c48684ee6b964dc06ad11c234746189b2fe2e460a2c66ad9d190521c7fff"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/end_outpost_trader.json"
+hash = "255c69fc6476235620436ef41fad2f19321078781c2501f0f8ac3d0bdc8f985c"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/food_barrel.json"
+hash = "6a55f7bde1135542e43dfe1283bfe4c1e5ff271e98716464fb98f168e683f917"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/food_barrel_high.json"
+hash = "21d5a125249fb08f13ab797cf5674377933aff169835a42e1d06bd7289bfcd77"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/hidden_chest.json"
+hash = "8f1a7438d04582a3d46033782d2b444e90e5c0f66bec606e16c08a2c67d6fe76"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/loot_table/outpost/potions.json"
+hash = "4800bdb265a088efda9390dd57d16936920b908cb93e41824752e44eae0387c2"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_upgrade/recipe/flangerberries_from_block.json"
+hash = "5039d3197be40de78f75a3a0851d34f4ac4dbe6129da462a3ddab9738a1c0c9f"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_villager_outpost/structure/village_end_outpost.nbt"
+hash = "a478f85a9cbff3a8478d57ec14e08ad555de978af7fdffe8034868c86558a283"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_villager_outpost/worldgen/structure/end_villager_outpost.json"
+hash = "f9ecf33befee480115526a8d9643f27ca7ec8a6bc8d6bad6126e1fd1c9fa10e1"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/end_villager_outpost/worldgen/structure_set/end_villager_outpost.json"
+hash = "1089e167c98725fbd6cd9def1e726015051f313c1b8e3384e8c0134324e8398e"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/loot_table/end_city/elytra_vault.json"
+hash = "787fc001481da5fb7061c6fcf08cd0674a69c9cc0c1c4eb764702dae07c208f2"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/loot_table/end_city/spawner/basic.json"
+hash = "59bc4730dbde0f399bb06e02964ff585dd6314cb37933fd3fb9c07dbe7c0062e"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/loot_table/end_city/vault.json"
+hash = "bd688da48b9c3728696f8e097633fddec548f8f48a5c083754719a2dd5dd3419"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/loot_table/entities/rustle.json"
+hash = "af6b0ea2ec306c2ed89437567b6a3c2dec8eb96b2f9231ef9db447eebaba9b06"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/loot_table/mirestone_ruins/chest.json"
+hash = "89d673355a162f3f4c6636f7367fd1686201a54ca14f5af88255f1d8a42fd221"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_1.nbt"
+hash = "fae73c6e1f2dbd4a16c5cb2362e01484e65347cfc6c9f56b50a4a7b8d0315d94"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_10.nbt"
+hash = "0c4ac48334a5b1e4d10b3574979a5c970d7f866ff29ba6200616a1b2b4a7a769"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_11.nbt"
+hash = "ebcf8061a4e1a585bdc2b8cd60bd4f9171ad9916ea35098c9d979b2ba58db31a"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_12.nbt"
+hash = "9c61839f908484d6f3ff598d1bbccebfdb89a41b50f94662b1cb01eac4a4bae6"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_13.nbt"
+hash = "7e5e51f0b0ddbba48a8f1045e31fd0aa355c4db1660d98cb5655dd4242a1cb92"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_14.nbt"
+hash = "66822bf8ba6b3d55a74fd4debbccb01b06f286ccfd33beae69bc5f9231efd4fd"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_15.nbt"
+hash = "0184b8821082d44cc3f68998a4b6384d72e89a43f97084f85dc0198fbb8d5fdf"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_16.nbt"
+hash = "a285db798775a07ccdb35e19b26a794c109831f8a7331ffabd7b6b949f6a6000"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_17.nbt"
+hash = "341b67383a09baf46996228425ab7c4f07acd1e1f3a4d19957dc8ce25c21e1e9"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_2.nbt"
+hash = "fdfa6b9473dee6d7b0367d151aa2c1fe9716f626c074a470e47f110904de664c"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_3.nbt"
+hash = "c85990dd91426e717cfc1ac8206438daaa34fe12061ecffa90895d265001d695"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_4.nbt"
+hash = "dff049384e45f26158d65929bfa09e0155241750cb32ee2ffa2befdfa4f3b2ef"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_5.nbt"
+hash = "4ba505ba66931f6c8194928a7095afd18430a8833cd016cf667e6d9dc86cbd11"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_6.nbt"
+hash = "11d44fbc631c26096d0c51e74b34dd30740849fa3c79f4594ee2e148b11084a7"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_7.nbt"
+hash = "8896f9a206e9f69d84ef2ae5491f65b84d1830269fa880fcdf94fdb3e2a25254"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_8.nbt"
+hash = "527f93ee2659b58475dd1452368f8aa47e50044aa962b2cf568f5e70e3549733"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_9.nbt"
+hash = "d42a9123b85c8fe5b4010eb2d25d6c7206667486855aa2d9b8f7d7998f14a853"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/furniture/furniture_suspicious.nbt"
+hash = "bfd6337b8e7d309a0340b8782e5f2100fc6991810cd5b534c6a2c12dfc09dfe9"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/one_floor.nbt"
+hash = "17adee571183895e86d6dc42389aac5849aa42602050c015ee6f2b3a6d7cba3a"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/one_floor_furniture.nbt"
+hash = "302c9a979466ff52faa802af0eb7bed22cd55be0953c3eaa3a5c145af16b4e08"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/one_floor_furniture_stairs.nbt"
+hash = "cec091bb808036bb99a2c5a3be4397d644802a0c625112db288f12abdee28ced"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/one_floor_vault.nbt"
+hash = "b07cf4239013bcec50ede165fabf2a7427bbf74d0ac7756a5248b06935e5631f"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/one_floor_vault_2.nbt"
+hash = "ba346ce65f5dc8da170a3023108fa71900c8774744cffe385caa4ad48ad57909"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/three_floor_into_tower.nbt"
+hash = "e07239d9e5badfffcd096cc5158b53709ee704130df231152ce8b654b80093da"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/three_floor_into_tower_2.nbt"
+hash = "9d27a96fb1cb943811814df5af7764b37f3b54ced68b8f8748ca324549b96fe1"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/three_floor_vault_and_spawners.nbt"
+hash = "447e34fd1f844472da4bc66d2733c262738930a7237c6080d7f9399df49d7060"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/three_floor_vault_and_spawners_2.nbt"
+hash = "871584437c6afc15d2a43a33c0c754263826bf1089d68ec8b44612ee1217d91b"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/two_floor_furniture.nbt"
+hash = "9d45696784b6daf5be5ce9e0cfb219bf12a03d87b7a28a7883591dbfb8f7aedb"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/two_floor_into_tower.nbt"
+hash = "eebd86d0be86c367ec5cc667ef2b5322d0e423c0a5337b05aec8e41bf7405871"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/two_floor_vault_and_spawner.nbt"
+hash = "c0a8c9353779e9e5ce3c5af381ba2c4e079394dac6bcb982cd32969292d9ffdb"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/house/two_floor_vault_into_tower.nbt"
+hash = "f0fd03eefa2108c685c72e67653001447d1df1d3d423341d72ad6b596de20936"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/ship.nbt"
+hash = "1b9138b68e28163b2f0bd7848cbc14283f6e017b60e8a148db95fdeac440f717"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/start.nbt"
+hash = "487ab8682d18af0d3af79e7d437c46b3aef9b5bf8dd0efdc4a0fe5d47d872484"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/start_platform.nbt"
+hash = "244328c0a16bccd5d7ddd55a43c545f11eba67df78b51c24b9c5d19c12a39bed"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/lid.nbt"
+hash = "260b520e27a67c8c1a3d4a085e23c6d971f03af9368e241f5a825dfa4c196643"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle.nbt"
+hash = "fa0bdb9e09df6cad1cebf20369ee71d0dabeccd48b96eca7e42e571e4eaa0673"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle_1.nbt"
+hash = "4cfb5f88bdfedd4b316ba685df4b8ef4ae45bd2ed1f928960816d03a1881f06f"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle_2.nbt"
+hash = "5171a0c634335e75beeba7de22d997630ff669595cd59e64c81b4b1851f5d15b"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle_3.nbt"
+hash = "8577d0dd883ffd1e4c1db4b7f0e94f1ee1e0d0a6d2c9af6a574ef98753338ecf"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle_upper.nbt"
+hash = "7734ce2f2734dfa5720b6ee4cbb909ab2c1fe6fd114ceb261088967e02013e20"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/middle_upper_wide.nbt"
+hash = "c1af980908d9b5dc45125ba4193f42f42cf841619a28aca2a1e40443fa132222"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/three_walkways.nbt"
+hash = "1556a622c94cd23a630832dabff4df90d4dc7f25fd0feaf660b09752cfff42e5"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/three_walkways_flipped.nbt"
+hash = "6a180452498138a18cd940211fb26176891ed7d736c577b9e532b98815256d68"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/two_walkways.nbt"
+hash = "c6441bf9bf01ca3b0107e04fa300d05317e0ffe22e7799482a3cc0dd111a37df"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/two_walkways_diagonal_1.nbt"
+hash = "2cfeca5a8ed002cac35cab4dfb7033fa68c4a4d1bac6de00bef63f69baab8458"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/two_walkways_diagonal_2.nbt"
+hash = "3269d149a28d0dc7676eaa70179ab3d8121858d7f90e35ab03892ab7d0984539"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/terminal/two_walkways_rotated.nbt"
+hash = "41ba9691a878c36f580fbea23b54cc9b96a1f8075725ed93c8dd839c0a730667"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/top.nbt"
+hash = "501b3fed0033a10233ff6bbde6f5523a56bdfe346d84e7a03758f8da06c9dd35"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/core_1.nbt"
+hash = "a3ef8f2296de0e0f61661c6cc709dba129f12d6e1e4d68e347b9fd945c63323d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/core_2.nbt"
+hash = "32b144572189fe28a184905159f177e61c9ac197cca070eb441ca8c65b6a6482"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/core_3.nbt"
+hash = "9541ce1b2f1e3b2594e2f4fca60e368c6cdf236766969c8c85bc8affb4123d8d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_1.nbt"
+hash = "87021eaacc14d175c4a4432d7eceebc7249e48a44780ffe01412ed27bbf9b968"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_2.nbt"
+hash = "94967bc5849c361955e618906039d3fe1e4c6b51a346078ae9a66d75312788e0"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_3.nbt"
+hash = "9661e06c30a09797622370bdff2f5310899de40283fc6de5aa2c384c26bcf79f"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_4.nbt"
+hash = "23ce3a8b181811d09f083cf60eb78e48b60b33c81a30a879e35d426dfb28d3b2"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_5.nbt"
+hash = "2b8320491a590b41744022ae1a3eb3303d0c976b97b2fc28dd5999896da956a8"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_6.nbt"
+hash = "e5f10bcfd0ec2b44f85beb849e6352e6522c6005ee24e88ec170a457aa857bc7"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/decoration_7.nbt"
+hash = "a7dbd370766db987c2fe5744a78cc98dfbb88c48dec23c13b1c4fb919cc54fac"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_1_a.nbt"
+hash = "ab892ed99be5e8f9646db02152ae8bd5900b336083e1e1b18f530f5ef82c9289"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_1_b.nbt"
+hash = "86ef1ac839b77d2a882e7db922219375726e11b3d5b6265d5fa88b36f0c947ea"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_1_c.nbt"
+hash = "354d3266b1fb6c3c8ea3f305ac111832e6a0a00b65b504da8d48cea8fa3ef359"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_1_door.nbt"
+hash = "60162bd10fb91b3689f7bf2bb4a2e5c77485fa8c804dffb9c5496490ec85abb4"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_a.nbt"
+hash = "46e1c9172ce644aeec3a00856788f6b02ef19d520c1e60657c3a5d48ba2dbd45"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_a_shulker.nbt"
+hash = "7945f93d1cac14f26fd1a9d21f893e1f014e67ee907566949bd2d63180a67dc0"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_b.nbt"
+hash = "a7aca2a33d4a31199f8aad9736a4c72f9708aeef4b815912a2aadb03e39bf023"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_b_shulker.nbt"
+hash = "74e1e89acabb2d32ee69be37dd5c5cf61e650231709a020c2eec4ddfd65262aa"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_c.nbt"
+hash = "d60e2ecc7bf3dcb36cfc6940c9d3994c52e53f60ecfe06cebbca1fb9dca968af"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_2_c_shulker.nbt"
+hash = "fd21369c91659c9147419fdc624030ed37c31585b1f12d19919fbb8b2176dfb6"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_bottom_1_a.nbt"
+hash = "c84e20f154eec7f7054dd28bed2e68b348a96ab53b8d915bf2638b2876069631"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_bottom_1_b.nbt"
+hash = "e1064a01a5faf4e31f47d95665fcc848802a46f3e434f9c89ecbfd880bef66f7"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_bottom_2_a.nbt"
+hash = "e5fd5bbba698cf4967bbbf7162bbdfb16fc1971f1f10e4820a14b5f20025a877"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_bottom_2_b.nbt"
+hash = "9e0a3e1528941399869e09339c38d3ec3d5c86810ffc742e55acc875417e6a4a"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_top_1.nbt"
+hash = "f7348bf68d543e7647e14056f1f3f9adef7bc8bf6b7253e01a48f7b9176a539d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_top_2.nbt"
+hash = "ccfee2cf61241f86ba0ff85185d008fdd72dba4361f2b6dfb608603eb215d924"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_top_3.nbt"
+hash = "811afc07e71bed51c70853724f7dd9433dfc88451a48450f103f5d996ea28cd7"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/sides_top_4.nbt"
+hash = "d4775678eb42b99383241cfdad4b5ab76b17bd62f595f898353edf1704eec18c"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/tower/wide/top.nbt"
+hash = "781f2938a11dfc3b24168464e81d91b77628a55bb0960f259d8a020e23c06d15"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/fallback.nbt"
+hash = "52b66ccd9139495f3960887f20cd7c0a1972e27bdbaa08a03285f8520171ced2"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/flat_into_end.nbt"
+hash = "b27992386381e7a4faecacbcec8082442874ac83d2bd6ab95e5bece4a4f9aefe"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/flat_start.nbt"
+hash = "e315b3d6c6823107822056dcacf356749cb5836dab43941925437d073f443de2"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/gentle_into_end.nbt"
+hash = "519e72f3d3a57f46fff98707394f0552119180761a91aefeaf3d489f7b53eb7b"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/gentle_middle.nbt"
+hash = "073fa004d557efdaf79db11a3e7ff62e519b1c4f8163a57b2bc0aa55083d2df3"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/ship_archway.nbt"
+hash = "e925ca40f1350bf7c7a771af6e51cb7072e073219bff238abc3092f47e1a401f"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/steep_into_end.nbt"
+hash = "ef6b5001b2b1023ff69931257ed698e12ed02ea416b5e2baeba70a2b5c9652db"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/steep_middle.nbt"
+hash = "ef6b5001b2b1023ff69931257ed698e12ed02ea416b5e2baeba70a2b5c9652db"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/arena_archway.nbt"
+hash = "5f3dc2f651bd95627bf27f118803da193571995d17a0bb9151d098f6896759c3"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/arena_corrupt_garden.nbt"
+hash = "3864c51db309ad7d1580ec02482ad6e57e0ddd7567d5cdf0744a7bb34b84420e"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/arena_corrupt_garden_end.nbt"
+hash = "b2fd874009d1119a402d78091aac3845a640145a1f692c7dbb8da6ff46de05f3"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/arena_shrine.nbt"
+hash = "155f3703ac16211efa369bcc81eaf7355937b4efd7e33af0968df1ae954735fa"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/arena_simple.nbt"
+hash = "74e006c97d9da826d0561e3f475250b8f0648b89a995e6f01bbbb9f49e84fafd"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/drift_jelly_bridge.nbt"
+hash = "760dc0184e109ac80b9e42d8dfde3309e61f656205ca245783e5c91fd3e488ae"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/enderscape/structure/end_city/walkway/unique/veiled_tree_trap.nbt"
+hash = "79b4dfe028e24ad6a29aa342e51a7cd2f92c392b8823e8223a8635b9e78adbba"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/minecraft/tags/enchantment/treasure.json"
+hash = "4bcd9d831fa2e5b9db662d2a64f8906b954a83b666ed41d8f4ce60522c97c125"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/minecraft/worldgen/structure_set/end_cities.json"
+hash = "71febc0b398bd5a3d92b3ad09c82e68b8aab9396a1c45baf9e88e8457106edfd"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/burn_zombie_burn.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/frosty_the_snow_golem.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/gunpowder_spice.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/hulk_smash.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/no_bones_about_it.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/root.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/spider_pig_spider_pig.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/mutantmonsters/advancement/you_da_bomby.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/advancement/end/find_end_lighthouse.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/castle_bar.json"
+hash = "770a60d790010d4f3cb7d3c753887e40ccbe9497c88221e8d1a5d6868b9e8db8"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/castle_brewing.json"
+hash = "89aab6ad48e8bcbe4a4d8a010a6623d470b72db338553346d90791872a52d5fa"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/greater_loot.json"
+hash = "e76629827255a334dbc161fec229e3a95d22fdc16231fef86dab1f1826692449"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/lesser_loot.json"
+hash = "2445fb63689b8ec7277254c01e5dd202818773c30d7d2a19b9f7c099dff15509"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/supply.json"
+hash = "2fa551d88afef019ee2fa3f870fd50bd5367c9ecca8b5198bb950ee8666746f5"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/vault_brigattine.json"
+hash = "271041e78bfb429524bb468728723cf3132435371fdb46c9b893ea2413d97bf5"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/vault_galleon.json"
+hash = "400cbb512ac13aa5d54ad82b75afccb75418f27849efac9238fdfe71e02249fc"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/chests/end_castle/vault_slope.json"
+hash = "4ce72302036151bdef815cf78945847a6826784f362deb2138d0f2ccbda67667"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_boss.json"
+hash = "e91f59c65110207084c2d6c9d016cc81bc376586748478b051aafa03f6332f49"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_boss_ominous.json"
+hash = "c5c4277e218771719b798c780aebee91d7ed58a937c6713a9cc9ccf603b0365c"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_endermite.json"
+hash = "69c3ba35a2aef98766caf2f4037779422b89099da31818e8a75d24b8390f6940"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_endermite_ominous.json"
+hash = "cb83de7912fa08c2714a6f7d5d475ed7d585ea32e825e2e5ef7683b4153635b8"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_mini_boss.json"
+hash = "7cecb670f94fd391620f51709b17d8b814a805b3e8733a215e312e4d0ae6e653"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_mini_boss_ominous.json"
+hash = "d1e175f572e6a252831645ef2b3239f376b78663dbbe05d88ec2621d8eb2b0a6"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_phantom.json"
+hash = "6286f5d0132e62e99f876319b3a23eb615bfdf616182b0377a8c4c410a483c1d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_phantom_ominous.json"
+hash = "8b1a8fd3234257d85e251c473576c73769d3f19872a56b2dae38c9d7833b6571"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_shulker.json"
+hash = "23df7f83a4375d4e93c26a62d1d925dbddb4d0c61aa6bc72ba30903050d0b0f0"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/loot_table/spawners/end_castle/spawner_shulker_ominous.json"
+hash = "b8ff842167dc4fde96102d16c15e48bcf00e5db6c7f906f1eaf72e453f350167"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/structure/end_castle/main/end_castle_core_layer_4_slice_fixed.nbt"
+hash = "d53573bf6243adc3eda31088136e520b460883719b026731d81ad9a18b9a7c7c"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/structure/end_castle/spawner/spawner_endermite.nbt"
+hash = "ec6f8109d37791448468594a89e53c4fc11c3b9ce498b5525260792553fb3a1a"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/structure/end_castle/spawner/spawner_phantom_boss.nbt"
+hash = "c9274f4c0ea2131e198b56a8c42baa99547992d5c5cd7db64446b85d6d0a7627"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/tags/enchantment/end_castle.json"
+hash = "320c5715f03f8ac80f28706a78382a736b3c9b6096f84b01698a83848563998d"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/tags/worldgen/biome/collections/end.json"
+hash = "5fe55f2f7ad9775aa337a6e64df51c28194924af3965c60a013d9e1dd6240fd5"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/tags/worldgen/biome/collections/end_void.json"
+hash = "37fe1533dafa0bf463468969752927c51647f9a72a09ad17bc18037234f0ba48"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/tags/worldgen/biome/collections/outer_end.json"
+hash = "85c76f9053f36df55e0f10a6c8ddb5eb1eda34441efef103e63d777a326c6757"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/worldgen/structure/end_castle.json"
+hash = "11ec559b545f2d6f954de6d2d4b776b84cfdf0efbd0b5992e9a5eb8db88ee452"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/worldgen/structure/end_ship.json"
+hash = "863c2eab428ec341d1733d561740f17410b9054aa43892fb223ce0adebfb6472"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/data/nova_structures/worldgen/structure_set/end_castle.json"
+hash = "77c553c32b8e2d7cae71962903dcc689372b4fa7380ab6689ad59ed0665036e7"
+
+[[files]]
+file = "global_packs/required_data/Enderscape Upgrade/pack.mcmeta"
+hash = "31ab53252152e765473b81605145fa2891a22f8be374fdbf458d52a2a78e5795"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/assets/repurposed_structures/lang/de_de.json"
@@ -1202,7 +1970,7 @@ hash = "8830381f02664d7d2f79eacadaec05e05219878050f6b6aa2dc11f689456b3cd"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/loot_table/chests/ancient_cities/end.json"
-hash = "bb4b872e725157de9bd019da5aaf482423b69d7921b91e9d6431a70fa7eb567f"
+hash = "11c77b0747dc54111a93a6e5ed08c7235b9e2df222d9776a9ca79a83421dceb7"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/loot_table/chests/ancient_cities/end_spawner_box.json"
@@ -14890,7 +15658,7 @@ hash = "9aafc56cfa09613ae1114a945017cf369e5ed9a8cf08aa5536e903e60fb740ec"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/tags/worldgen/biome/collections/end.json"
-hash = "c116ec703c550f9dde6c655aa5a74eef6d5e911c83b13cc3d23b44ff211e4713"
+hash = "ab3f39e68852cd6336efbd5b4ac10ca097c19b1d2cde39693c6d4c65df4b7626"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/tags/worldgen/biome/collections/end_voids.json"
@@ -18718,7 +19486,7 @@ hash = "89b5665ab6597dc46ab77f4fd42f1d7c75d20f22e634fa444d57741abf31e741"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/mineshafts_end.json"
-hash = "9327452835fc3f796bdc2f8e7da4733aefd36449022c5755ed5d6b1b015ea20f"
+hash = "31690d8827edd44000f0c2d355b71d8b696e692527a0ad242fdeb070bee5df83"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/mineshafts_nether.json"
@@ -18742,7 +19510,7 @@ hash = "3ea6d045cb71b4c09307c10d52453b333a75c96d7cc2f742c2d4702a07d535f2"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/outposts_end.json"
-hash = "709ca3ca62bdc9cd0682abd9d4aac9b319100be1206f4dec7c627875e48d35cf"
+hash = "0452ae7126eacfc5f1706f6185e2a4645e6ce116eb42596674460c7b0ca0c99e"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/outposts_nether.json"
@@ -18794,7 +19562,7 @@ hash = "fa5a424bbba18118b86cbc2d6e6e1da0e717fbc55137a219bd19d42897d66932"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/strongholds_end.json"
-hash = "47682e5d6c179c2d8d9cf53028b067faf54c50e8360679337f9e5017042db0f8"
+hash = "e106305d36ba6b06b7f8d0a8fbcca9d6b6b92bb015ff51cb64073871fa0dcfd7"
 
 [[files]]
 file = "global_packs/required_data/Repurposed_Structures-Config_Datapack-1_21-v55/data/repurposed_structures/worldgen/structure_set/strongholds_nether.json"
@@ -23245,6 +24013,14 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "c91571466017f02666c698824c08d1889c5d4024e19e4ddf329b1342edc375cb"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/ancient_apple_overlevel_token.json"
+hash = "3b5b2005a71d9f12f72f7aab06dd586db92df92efc1ed779b17ebf886818a576"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/apply_color_rune_token.json"
+hash = "4d1e3bb221405a8e947c76a30938152ee2dea345aae4df93e976221483c871dd"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/arbalistic_token.json"
 hash = "3b4abd8b2dcf3d5e8603216853142115e46144626af186dde2e178e507053127"
 
@@ -23317,8 +24093,16 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "e82a5be7ab8b022b48aeaf74ccb3604b318168fbab9aa3b726ec20821cbe5907"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/explore_end.json"
+hash = "840e46215bc51b82cdc93e66434e1352c1970c75785d00f6953bb645f54bbe22"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/fall_from_world_height_token.json"
 hash = "1b45630144db9db2e4eb5380bbdfa13ad4ea1e0a9b03f56986230dab03142692"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/find_end_castle.json"
+hash = "479091b018ea23ff3265fe1256e7af44ea5618c9f85b9a813d85fbe8aa64f2ed"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/follow_ender_eye_token.json"
@@ -23329,6 +24113,10 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "dccc3213edc2903611c57b887553f66c187445158f579efc05162f6c896263a9"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/foxhound_speed_up_furnace_token.json"
+hash = "bbff33ec62a5a8922d4c2a170bd1f1ab3560ec42a06dae1f90cc7c5da334fa58"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/froglights_token.json"
 hash = "fc548fc8a67127c07b7a0fbf26ad02d39e637e2c8617ac70aa8f42b15d1fc9ef"
 
@@ -23337,12 +24125,36 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "2a76bb4edeaaf160a4212b2b0b774c43c4e658b9cead8b1a03fcde775ff21899"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/get_all_blossom_saplings_token.json"
+hash = "faf9766b3096a750c756db9670e6a1fa6b8dea9e04d34c5f8498db9786911b63"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/get_all_corundum_token.json"
+hash = "5ad588d2c261dc1a2944c7e14697f05bae85e0d914da7bc18dee04f3a7946fe6"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/get_forgotten_hat_token.json"
+hash = "f0d6df44daf5f816ca683b011d188b8f78f2926322537b0c8b347a67539e43c8"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/get_own_head_token.json"
+hash = "47abe25db9786932a7e61b28b7843affeacb4fe5853dc037dea5989f316983f1"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/glide_onto_drifter.json"
+hash = "8338c30803ee2eb7093093c7dd42a4fb0a41837760af0589c3ea5df3b70a1a90"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/having_a_hobbit_time_token.json"
 hash = "03b59a01246e9471ba78afe22cd5ff27b0e8d89fea0ac56880ae46656d0ef2ea"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/hero_of_the_village_token.json"
 hash = "b532415b2963310f641d634c95515c2c89b7cb4fd6742f2e04f21d54a42c1cbd"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/instamine_deepslate_token.json"
+hash = "16aa3779846605e9e9d5718917ff00bcc60f33ff08e15c082751e5241d22f2f5"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/interdimensional_pirates_token.json"
@@ -23361,6 +24173,10 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "bc7f1359b8f6b4828088f41973a1cdb2d51d22885a36f206348ba19b52017db0"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/kill_phantom_boss.json"
+hash = "5b0419f3cf5d5eca2dbbb50ccd3cc290f7cec2001f2c7a1c6004bed6faa9389b"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/lavish_livings_token.json"
 hash = "1ac1cdf0998aa2303091afc1cd4db0ea864bfb84c7cde81efec7e91712060aae"
 
@@ -23371,6 +24187,18 @@ hash = "255b588e26c0afd79a167ec6828211b823e70146342aa1a27b854b9b9bba39d6"
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/make_a_sign_glow_token.json"
 hash = "55badcbb4a0a653c371f1eebd02528b0620712cc4691e086d919db000c0521d5"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/make_stoneling_token.json"
+hash = "2c1b26260d9cabcf555540bd199d31f8c15febdf880850a6a9c94ec78323f9a6"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/mine_fed_toretoise_token.json"
+hash = "48705f0cbf22a9f295b313ab95c5c28b123500485063e59271d691cefb38c0e1"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/mine_toretoise_token.json"
+hash = "be450f6b7e200505e65014bbb604475b270cdaaeb7a4f3b57a7d1e63539e21af"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/netherite_armor_token.json"
@@ -23393,12 +24221,24 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "eb9b04b30cefb87d0477d86bf2f613f3774b97215e76e2ae6724eb56a55751a2"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/pathfinder_map_center_token.json"
+hash = "806f3a54377d316a50eab56118451c5967e6dcd525ac30d3fc2b2d360058cc29"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/play_jukebox_in_meadows_token.json"
 hash = "2c3fc86e442d257d0f6b57c4f47410d3cc2f3647111a3a8f73f7839b8edd26f2"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/poison_baby_token.json"
+hash = "decfc666443c1e938233a618f3b6ffe7b090f1d1e04d89895b2a5c8e8171ee2d"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/raider_of_the_tombs_token.json"
 hash = "8be298d0eed1125cef136132561cd0686f3decd6b9cdab8004fcf443aa7bfc37"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/redirect_beacon_token.json"
+hash = "a0d42da204e9c76b850843f907e59289919423f9fac29c306509ece63c585cb6"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/remains_of_the_past_token.json"
@@ -23407,6 +24247,10 @@ hash = "f2a224146e3af8b8d8a9ff4e6e854e264b451b3382755b68dd253ded05d44bcb"
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/respawn_dragon_token.json"
 hash = "79cdb78f0d8ab284467c191849292ac7ab18a165732c23249045c56d61f7b3ac"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/retreive_flamerang_token.json"
+hash = "b1eedd4f2c665c28ac7326c37e948b117c5c6b5ed042231f3583a74fbae3446b"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/return_to_sender_token.json"
@@ -23425,12 +24269,20 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "90ad478958efc11a1b11b10f9e6a8b6cf2f75fee491edf74293816fb3b1c69b1"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/rustle_bucket.json"
+hash = "1ee8969b6bee45b992ca4d7e8708b9df9823b8b6f5e1d4a17d374799ef0f6f3d"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/safely_harvest_honey_token.json"
 hash = "0102231bebbf21daba166837b9dd30fd37c239af037f65829595bd2afbb80cbd"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/sandstorm_end_token.json"
 hash = "382fa9a9efb4e2a58a7bab1dd1d93155cac131b0376ea292f1c16f0bb49ab3ea"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/shiba_help_token.json"
+hash = "f89335f540b8c25b8e5aa89a1b5986b23dc9bd3732eff4e37af7c0183040a908"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/skyward_cities_token.json"
@@ -23457,6 +24309,10 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "2807055e29df0f78963115b59c0f35705b72d515735c576cec73aebde457b4d6"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/tatami_gaeshi_token.json"
+hash = "0eaca955f7e238f1b35e12518f1d1078b2702cff6fdd3a0517e07c4379abdb76"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/territory_control_token.json"
 hash = "b86de8dafb123bc6eb202aa6711edbcfb1e1455624afd6e6f7d211aaa93ae222"
 
@@ -23469,12 +24325,20 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "719316acf28fc73aa19033c07bcb00018f049cc249aa831ab96ae4026a898dd7"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/throw_parrot_egg_token.json"
+hash = "d446e1c89f4b7064943f7416d83bbf11216c7a2b18fb19acf5ccce49c6a8df7b"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/toiling_in_the_mines_token.json"
 hash = "16921f2e742f1aaeb062ec558b3bf33525f14647bf1f6ca893228ff561064e1f"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/trade_at_world_height_token.json"
 hash = "95c32030be40c905ff15c3dae04c906c49776000b5a5fb1ed4c9699c35f96dc1"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/transdimensional.json"
+hash = "d00e8a3ba129348a5479858cf9f19d4c1feba04eca3a781907a75b39c96fab1d"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/tributes_and_sacrifices_token.json"
@@ -23490,7 +24354,7 @@ hash = "7d7aab78eb2f168c75b43ad513cb05ee94e080ed51bc92a60bd0929698aabe6c"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/two_birds_one_arrow_token.json"
-hash = "ed5d2383b0e0cecbf075ac395caa4dcd80fec7782975894d208b4679f8fa898d"
+hash = "7d861d8a72f6a93a63888e727a37026fca327dbfd4d19ac58ef5984548856a20"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/unanswered_prayers_token.json"
@@ -23501,8 +24365,20 @@ file = "global_packs/required_data/advancementrewards/data/vanillaplus/advanceme
 hash = "d8ba26552214b4abe0b4f5c1fcf542e6842e0b252aefad48dec5793e61c04797"
 
 [[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/use_viaduct_token.json"
+hash = "f4862e95d4c407131b874651e6e3ecac59a5fbf37a0ace4801aff0130bc87ea8"
+
+[[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/walk_on_powder_snow_with_leather_boots_token.json"
 hash = "d17c78fde6e40043b92dd2129fa53d1215462065ee3a493aacd59ef068c42143"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/watcher_center_token.json"
+hash = "1dec12117e5112167e323cc555999686d882373fc597140dffe2c05e371b4737"
+
+[[files]]
+file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/wear_full_rainbow_token.json"
+hash = "8848ea2f4d1a280440f33ddea6d1f934780191ac7e1d57411752f8d4475024b8"
 
 [[files]]
 file = "global_packs/required_data/advancementrewards/data/vanillaplus/advancement/rewards/whos_the_pillager_now_token.json"
@@ -23533,8 +24409,24 @@ file = "global_packs/required_data/advancementrewards/pack.mcmeta"
 hash = "05fd10121a491bb70976f3721be2e3e7927b291f6d0f85098534780dffcbea58"
 
 [[files]]
-file = "global_packs/required_resources/Visual Titles 1.1.zip"
-hash = "990fea9d30883eb72982488c64d580c2025da9238e65fa3eb54d87d8070ac549"
+file = "global_packs/required_data/true-ending-v1.1.2d.zip"
+hash = "1bf1ecc56d9dd048096a1dd7bf7c5bd2a90dae44571cccce7fd17f8b3c86ea0d"
+
+[[files]]
+file = "global_packs/required_resources/Better_Enderdragon.zip"
+hash = "07466e7ce113dc5ae07510feca0025c0e327212e19851aad4d6227b83d82b7ff"
+
+[[files]]
+file = "global_packs/required_resources/Visual Titles 1.3.zip"
+hash = "7a08d58bc4c31767d08c98f0b824433eaa4b842b1dd8695e9e2b1d7ee856598b"
+
+[[files]]
+file = "global_packs/required_resources/true-ending-dragon-music-v1.zip"
+hash = "afa76d4c9a66fccc57ad52c5df94c7a9d55bf13f43c93f8831fde1204e373eeb"
+
+[[files]]
+file = "global_packs/required_resources/vanillaplustooltips.zip"
+hash = "40c58248048bffdef67b85e0e9b257870f0d5ef86d62f88861e2f941e9772959"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -23587,7 +24479,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "f6ecd015d69886fff80bd67a88d0a5ded19acf6307ab8014fc13112a804a8a1a"
+hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
@@ -23617,7 +24509,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "fbee29e0f3f046515c7f95bd69884feb70c7a381fa4803e0f35650db244121da"
+hash = "cc79252ae16dc896c5e3fd0a5b47114ade035eed270482c13a062e78283f232d"
 metafile = true
 
 [[files]]
@@ -23656,8 +24548,8 @@ hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
-file = "mods/drink-beer-refill.pw.toml"
-hash = "8564939321baf1c9ecbb4efb39a63678a193f5d92ed934da7cd4594483a26df2"
+file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
+hash = "d94d9d6b8fcd656ed65e886c3b895dade1130661e0eaeb6b22162060a8dbf331"
 metafile = true
 
 [[files]]
@@ -23666,8 +24558,18 @@ hash = "36ca501773cbda3b0df3ab3fec5188337fe4f4dd7918dcf0a7fbb5965b1c41c8"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "732230fce4618b7b3f399e48a9fa632731ebbf4226e39cbcdac06586be15dd5f"
+file = "mods/end-villager-outpost.pw.toml"
+hash = "52599046dab8a7656a421de3ec3e14dfe0ea50bf31cf6c76127bbdae4fc3ea87"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "dd1d97bf0dbd163301b1c6677f36777c8684c58434b91b375ee0ef9fa7cc044a"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-boss-bars-mod.pw.toml"
+hash = "6aecb0c0e632a3e733f785522dee0d0eab272b9ce1f6687414255d9e4d48cd09"
 metafile = true
 
 [[files]]
@@ -23716,6 +24618,11 @@ hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
@@ -23723,6 +24630,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ff056ce8d4f6621a6e30e0cc6e05ae3ab2a1c07b34ea9ccfe3fe3473d83721f8"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "90884d8e75897120ad7e7a6fc4ad3ab2a08bcf050286a98cac27c7412e043a68"
 metafile = true
 
 [[files]]
@@ -23741,18 +24653,38 @@ hash = "3fa9d58d6bbbd017e469b0c3abeddcfee722a0103b5c6590ac966dd8fb604992"
 metafile = true
 
 [[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "9263405332ca3b5da9de2f7e05b53c2544b8fcb5345e0d80b05f8b87f07d6b29"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
 metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3b701ee3561dcbcd81d7b73695e515d302d87a0944218c340f5ccc8e1b390152"
+hash = "1cb4d10e4920284d982c90a2145d57bb09d754f04e83cb0f9aae6bd45f3d2d2b"
 metafile = true
 
 [[files]]
 file = "mods/reap-mod.pw.toml"
 hash = "11bd1b1ed0d2f67434bf8cd590ab3eeb9646ad201a6f102874cfed907b240ea8"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "eda396f755c9877f5622132c1575da3b2a0510a5e3aa8dd4bd588e2cba6ef65d"
 metafile = true
 
 [[files]]
@@ -23781,8 +24713,18 @@ hash = "4c14cb8ce763edf4d963f8f4dcba72e48d0c84dc71410e6b45b749a10c486776"
 metafile = true
 
 [[files]]
+file = "mods/simpleafk.pw.toml"
+hash = "f3fb1c81dffb41d7b3556ec01cadb8e1433c0f361d440bb99bd162caa5621223"
+metafile = true
+
+[[files]]
 file = "mods/sleeping-bags.pw.toml"
 hash = "bdb45cc64e12361de3b335ebcb638c6df06a4cdcdbbee415a85011c0b1304a06"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -23796,6 +24738,11 @@ hash = "0b06a6d290e842495e6c6d54b259b4a5df2a83e44e3c53c7a319dbdafc7eef71"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "509dea9cb5ebc14ea6d8d430914ae17a1eab5f511cf6dc480a17d30ccddb37dd"
 metafile = true
@@ -23806,9 +24753,18 @@ hash = "8eecc7c597c9e84e8d3893d9ed388ee6999372fcaea6bd98a8de5d246ce0dd49"
 metafile = true
 
 [[files]]
+file = "mods/trimmed.pw.toml"
+hash = "d6ae00c55e626309082cfbd38e84c48d43d7bd0ad36b1190354755f79a322db5"
+metafile = true
+
+[[files]]
 file = "mods/unionlib.pw.toml"
 hash = "381686059e3d448c157f3fc7e0ed2993b74ad2e1eea81a1c2a63baf158234982"
 metafile = true
+
+[[files]]
+file = "mods/vanillaplus-1.0.9.jar"
+hash = "49c8d17f6ce3bbb9f83cdacc26874746685d4169a9a94ee88b58ffb3f03b7a28"
 
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
@@ -23828,6 +24784,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "f2dfce29433a6b2a3349db5f4913f4077c74d2e7982c8c4ec51fac5ab09d21ad"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -23852,5 +24813,5 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "dd9eb796545bbc04a65a67224095336c360b6a7733767283215abc201d0c1ecf"
+hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
