@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"enderscape:mirror"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderscape:drift_leggings"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderscape:shadoline_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vanillaplus:blob_stew"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"enderscape:healing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:splash_potion","components":{"minecraft:item_name":"\"Dolphin power go brrrrr\"","minecraft:potion_contents":{"custom_color":8954814,"custom_effects":[{"id":"minecraft:dolphins_grace","show_icon":true,"duration":60}]}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:splash_potion","components":{"minecraft:potion_contents":{"custom_color":7561558,"custom_effects":[{"id":"minecraft:wither","show_icon":true,"duration":400}]},"minecraft:item_name":"{\"fallback\":\"Splash Potion of Decay\",\"translate\":\"item.dnt.wither_splash_potion\"}"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -183,7 +183,7 @@
 	#-------------------------------------------
 	#Default: true
 	#-------------------------------------------
-	"Boolean: autoDeathMarker" = true
+	"Boolean: autoDeathMarker" = false
 [userInterface]
 	#
 	############################################
