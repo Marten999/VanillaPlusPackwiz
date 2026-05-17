@@ -1,0 +1,13 @@
+name = "Async Locator Refined"
+filename = "async-locator-refined-neoforge-1.21.1-1.5.2-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a12d3276da3afc2429b361025dd3426f2bcd5b5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7427564
+project-id = 1331921

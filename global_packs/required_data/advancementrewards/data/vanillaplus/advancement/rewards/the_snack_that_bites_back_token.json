@@ -1,0 +1,23 @@
+{
+  "parent": "yungscavebiomes:lost_caves",
+  "criteria": {
+    "prickly_peach": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "yungscavebiomes:prickly_peach"
+          ]
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "prickly_peach"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  }
+}

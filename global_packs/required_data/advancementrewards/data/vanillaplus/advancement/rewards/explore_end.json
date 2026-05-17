@@ -1,0 +1,219 @@
+{
+  "parent": "minecraft:end/enter_end_gateway",
+  "criteria": {
+    "enderscape:celestial_grove": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:celestial_grove"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:corrupt_barrens": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:corrupt_barrens"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:magnia_crags": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:magnia_crags"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:veiled_woodlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:veiled_woodlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:void_depths": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:void_depths"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:void_skies": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:void_skies"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "enderscape:void_sky_islands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "enderscape:void_sky_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:end_highlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:end_highlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:end_midlands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:end_midlands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:small_end_islands": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:small_end_islands"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "minecraft:the_end": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "biomes": "minecraft:the_end"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:the_end"
+    ],
+    [
+      "minecraft:end_highlands"
+    ],
+    [
+      "minecraft:end_midlands"
+    ],
+    [
+      "minecraft:small_end_islands"
+    ],
+    [
+      "enderscape:veiled_woodlands"
+    ],
+    [
+      "enderscape:magnia_crags"
+    ],
+    [
+      "enderscape:celestial_grove"
+    ],
+    [
+      "enderscape:corrupt_barrens"
+    ],
+    [
+      "enderscape:void_depths"
+    ],
+    [
+      "enderscape:void_skies"
+    ],
+    [
+      "enderscape:void_sky_islands"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  }
+}

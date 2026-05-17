@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:husbandry/plant_seed",
+  "criteria": {
+    "ancient_apple_overlevel": {
+      "trigger": "quark:ancient_fruit_overlevel"
+    }
+  },
+  "requirements": [
+    [
+      "ancient_apple_overlevel"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "ancient_fruit_xp"
+    }
+  ]
+}

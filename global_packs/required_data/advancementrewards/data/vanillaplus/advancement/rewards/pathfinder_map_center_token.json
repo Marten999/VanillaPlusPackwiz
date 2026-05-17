@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:adventure/trade",
+  "criteria": {
+    "pathfinder_map_center": {
+      "trigger": "quark:pathfinder_map_center"
+    }
+  },
+  "requirements": [
+    [
+      "pathfinder_map_center"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "pathfinder_maps"
+    }
+  ]
+}

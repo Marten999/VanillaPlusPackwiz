@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:nether/root",
+  "criteria": {
+    "used_warped_fungus_on_a_stick": {
+      "trigger": "minecraft:item_durability_changed",
+      "conditions": {
+        "item": {
+          "items": "minecraft:warped_fungus_on_a_stick"
+        },
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "vehicle": {
+                "type": "minecraft:strider"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "used_warped_fungus_on_a_stick"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken2"
+  }
+}

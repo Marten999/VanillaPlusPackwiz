@@ -1,0 +1,19 @@
+{
+  "parent": "enderscape:long_distance",
+  "criteria": {
+    "teleported": {
+      "trigger": "enderscape:mirror_teleport",
+      "conditions": {
+        "different_dimensions": true
+      }
+    }
+  },
+  "requirements": [
+    [
+      "teleported"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  }
+}

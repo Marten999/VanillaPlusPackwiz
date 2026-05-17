@@ -1,0 +1,7 @@
+{
+  "processors": [
+    {
+      "processor_type": "repurposed_structures:structure_void_processor"
+    }
+  ]
+}

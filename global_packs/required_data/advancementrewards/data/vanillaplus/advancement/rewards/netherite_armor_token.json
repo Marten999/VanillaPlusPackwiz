@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:nether/obtain_ancient_debris",
+  "criteria": {
+    "netherite_armor": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:netherite_helmet"
+          },
+          {
+            "items": "minecraft:netherite_chestplate"
+          },
+          {
+            "items": "minecraft:netherite_leggings"
+          },
+          {
+            "items": "minecraft:netherite_boots"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "netherite_armor"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  }
+}

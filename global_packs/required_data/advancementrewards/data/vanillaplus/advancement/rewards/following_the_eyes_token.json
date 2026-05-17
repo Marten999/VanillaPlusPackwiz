@@ -1,0 +1,48 @@
+{
+  "parent": "repurposed_structures:root",
+  "criteria": {
+    "in_stronghold_nether": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "repurposed_structures:stronghold_nether"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "in_stronghold_end": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "repurposed_structures:stronghold_end"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_stronghold_nether"
+    ],
+    [
+      "in_stronghold_end"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken3"
+  }
+}

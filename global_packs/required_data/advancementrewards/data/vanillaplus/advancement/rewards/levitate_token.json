@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:end/find_end_city",
+  "criteria": {
+    "levitated": {
+      "trigger": "minecraft:levitation",
+      "conditions": {
+        "distance": {
+          "y": {
+            "min": 50
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "levitated"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken2"
+  }
+}

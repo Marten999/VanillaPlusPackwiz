@@ -1,0 +1,17 @@
+{
+  "parent": "yungscavebiomes:lost_caves",
+  "criteria": {
+    "sandstorm_end": {
+      "trigger": "yungscavebiomes:sandstorm_end",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "sandstorm_end"
+    ]
+  ],
+  "rewards": {
+    "function": "vanillaplus:rewards/givetoken"
+  }
+}
